@@ -1,0 +1,5 @@
+milk;3.0;Food
+alcohol;16.0;Food
+pants;16.0;Clothes
+cinema;4.0;Entertainment
+Balance;1000.0
